@@ -7,3 +7,7 @@
 ## YouTube video: 
 
 <a href="https://www.youtube.com/watch?v=jiN1yyMPbSM&list=PL209Wq-G1IdkxFVktbBXrzS_82J_3avjt">Click me</a>
+
+## YouTube video Theory(ADHN): 
+
+<a href="https://www.youtube.com/playlist?list=PL209Wq-G1IdnKxdpsqGazctNpnuEDSeBw">Click me</a>
