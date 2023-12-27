@@ -1,4 +1,4 @@
-# CSE470 Project
+# Dining-Decision-Support-System
 
 
 ## Zip Full project and database file: 
