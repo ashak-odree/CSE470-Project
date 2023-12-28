@@ -1,8 +1,8 @@
-# Dining-Decision-Support-System
+# Dining-Decision-Support-System:
 Introducing our Dining-Decision-Support-System developed on the MERN, offering users a seamless experience in planning and celebrating events. Choose from various carefully curated packages or opt for our unique custom package feature to personalize your event. Explore a diverse range of traditional and contemporary events, ensuring a perfect occasion for every celebration. Our platform goes beyond by providing multiple payment options, including Bkash and Rocket, for added convenience. With a user-friendly interface, scalable architecture, and stringent security measures, our system ensures a tailored, secure, and enjoyable event planning experience. Your celebration, uniquely crafted, begins here.
 
 
-# Features
+# Features:
 
 ## Sprint-1
 * Homepage
