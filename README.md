@@ -42,9 +42,9 @@ Introducing our Dining-Decision-Support-System developed on the MERN, offering u
 # Resource file: 
 <a href="https://www.playbook.com/s/bracu-semester/B2Z8tbDxSaHe9FyH6wcjvLJ3">Click me</a>
 
-# Demonstrations video: 
+# How to run this project tutorial: 
 
-<a href="https://www.youtube.com/watch?v=jiN1yyMPbSM&list=PL209Wq-G1IdkxFVktbBXrzS_82J_3avjt">Click me</a>
+<a href="https://youtu.be/YanhFjlN4gw">Click me</a>
 
 # YouTube video Theory(ADHN): 
 
